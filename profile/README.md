@@ -14,7 +14,7 @@ AI-powered marketing automation for campaigns, outreach, and growth workflows.
 
 An inbox and wallet for your AI agent. Give agents an email identity, run Auto GTM and customer support workflows, and connect controlled payments with permissions you manage.
 
-[Website](https://mermail.app/) · [Pitch deck — Borneo Demo Day](https://pitching.mermail.app/borneo-demo-day) · [Documentation](https://docs.mermail.app/) · [CLI](https://github.com/Nudgen-Marketing/mermail-cli) · [Agent skills](https://github.com/Nudgen-Marketing/mermail-skills)
+[Website](https://mermail.app/) · [Pitchdeck](https://pitching.mermail.app/borneo-demo-day) · [Documentation](https://docs.mermail.app/) · [CLI](https://github.com/Nudgen-Marketing/mermail-cli) · [Agent skills](https://github.com/Nudgen-Marketing/mermail-skills)
 
 ### [use402.io](https://use402.io/)
 
