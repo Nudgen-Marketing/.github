@@ -1,6 +1,6 @@
 # Nudgen
 
-We build infrastructure that helps AI agents communicate, transact, and earn trust, with people in control.
+We build the infrastructure for AI agents to connect, discover services, and pay for value, so people can earn from what they create. People stay in control of what their agents can do.
 
 ## Our products
 
@@ -20,7 +20,7 @@ An inbox and wallet for your AI agent. Give agents an email identity, run Auto G
 
 Discover products across the x402 and AiFi ecosystem. A public attention market that helps builders get discovered and people explore the agent economy.
 
-[Explore use402.io](https://use402.io/)
+[Explore use402.io](https://use402.io/) · [Academy](https://academy.use402.io/)
 
 ## Build with us
 
